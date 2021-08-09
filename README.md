@@ -1,4 +1,5 @@
-### Hi there 👋
+
+![fanlv's github stats](https://github-readme-stats.vercel.app/api?username=fanlv&theme=radical&show_icons=true) 
 
 <!--
 **fanlv/fanlv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
